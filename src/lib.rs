@@ -1,4 +1,5 @@
-pub mod error;
+pub mod errors;
 pub mod models;
 pub mod parser;
 pub mod transformations;
+

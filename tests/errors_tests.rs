@@ -1,11 +1,11 @@
 // Importar desde tu crate
-use TP0ProgramacionConcurrente::error::Error;
+use TP0ProgramacionConcurrente::errors::CustomError;
 
 
 
 #[test]
 fn unknown_error_creation() {
-    let error = Error::UnknownError("test message".to_string());
+    let error = CustomError::UnknownError("test message".to_string());
 
     let debug_output = format!("{:?}", error);
     assert!(debug_output.contains("UnknownError"));
@@ -13,7 +13,7 @@ fn unknown_error_creation() {
 }
 #[test]
 fn test_error_transformation_creation() {
-    let error = Error::TransformationError("test message".to_string());
+    let error = CustomError::TransformationError("test message".to_string());
 
     let debug_output = format!("{:?}", error);
     assert!(debug_output.contains("TransformationError"));
@@ -21,7 +21,7 @@ fn test_error_transformation_creation() {
 }
 #[test]
 fn test_parse_error_creation() {
-    let error = Error::ParseError("test message".to_string());
+    let error = CustomError::ParseError("test message".to_string());
 
 
     let debug_output = format!("{:?}", error);
@@ -31,7 +31,7 @@ fn test_parse_error_creation() {
 
 #[test]
 fn test_error_display() {
-    let error = Error::IOError("file not found".to_string());
+    let error = CustomError::IOError("file not found".to_string());
     // Si implementas Display trait
     let display_output = format!("{}", error);
     assert!(display_output.contains("file not found"));
