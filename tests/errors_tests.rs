@@ -36,3 +36,4 @@ fn test_error_display() {
     let display_output = format!("{}", error);
     assert!(display_output.contains("file not found"));
 }
+
