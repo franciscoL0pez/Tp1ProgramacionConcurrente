@@ -1,0 +1,1456 @@
+=== BENCHMARK RESULTS ===
+Dataset: data/dataset/10M_Messages.json
+Fecha: Fri Oct  3 09:34:40 PM -03 2025
+
+=== EJECUTANDO CON 2 THREADS ===
+  Run 1:
+Starting streaming analysis process...
+File: data/dataset/10M_Messages.json
+Using 2 threads
+File divided into 2 chunks for parallel processing
+Chunk 1/2 completed (5086817 messages processed) - 50% done
+Chunk 2/2 completed (5217183 messages processed) - 100% done
+Processing completed! Total messages processed: 10304000
+Generating results...
+Processing top channels by language...
+Processing top languages by viewer range...
+Analysis complete!
+
+=== TOP 3 CHANNELS BY LANGUAGE ===
+
+Language: ar
+  1. iinwafqht: 15973 messages
+  2. lle_97: 11512 messages
+  3. xxplayawayxx: 9809 messages
+
+Language: ja
+  1. kato_junichi0817: 79319 messages
+  2. fps_shaka: 65009 messages
+  3. finalfantasyxiv: 47823 messages
+
+Language: fr
+  1. locklear: 101616 messages
+  2. kamet0: 74166 messages
+  3. aminematue: 59722 messages
+
+Language: tr
+  1. jahrein: 16500 messages
+  2. burakoyunda: 13918 messages
+  3. mertgunhan: 10919 messages
+
+Language: it
+  1. zanoxvii: 30463 messages
+  2. hollywood285: 25731 messages
+  3. ilmasseo: 19654 messages
+
+Language: zh
+  1. shuteye_orange: 31209 messages
+  2. muse_tw: 27197 messages
+  3. asiagodtonegg3be0: 23114 messages
+
+Language: da
+  1. jkfifa: 3210 messages
+
+Language: de
+  1. therealknossi: 60782 messages
+  2. montanablack88: 59461 messages
+  3. noway4u_sir: 27156 messages
+
+Language: ru
+  1. weplaycsgo_ru: 157715 messages
+  2. evelone192: 101243 messages
+  3. follentass: 86503 messages
+
+Language: th
+  1. jackeyy: 21424 messages
+  2. fifatargrean: 5520 messages
+  3. melonlama: 4004 messages
+
+Language: fi
+  1. yleeurheilu: 6927 messages
+  2. laeppastream: 462 messages
+  3. miikaz: 42 messages
+
+Language: other
+  1. bigezmoge: 21876 messages
+  2. samsaberi: 10836 messages
+  3. amirkhiabani: 520 messages
+
+Language: es
+  1. auronplay: 131691 messages
+  2. jelty: 114392 messages
+  3. elspreen: 90584 messages
+
+Language: en
+  1. mizkif: 250682 messages
+  2. xqcow: 208092 messages
+  3. pgl: 194132 messages
+
+Language: pl
+  1. ewroon: 64468 messages
+  2. popo: 33626 messages
+  3. vysotzky: 30367 messages
+
+Language: ko
+  1. saddummy: 46825 messages
+  2. handongsuk: 40949 messages
+  3. yapyap30: 22863 messages
+
+Language: cs
+  1. agraelus: 18304 messages
+  2. fattypillow: 2838 messages
+  3. xnapycz: 2833 messages
+
+Language: sv
+  1. heatoncs: 8995 messages
+  2. jewanderz: 1838 messages
+  3. redbullse: 848 messages
+
+Language: hu
+  1. leetesport: 2471 messages
+  2. wearethevr: 1606 messages
+  3. eragonist: 242 messages
+
+Language: sk
+  1. 2sekundovymato: 966 messages
+
+Language: tl
+  1. dub5tep: 197 messages
+
+Language: ro
+  1. creativemonkeyz: 1462 messages
+  2. faraoana: 227 messages
+
+Language: pt
+  1. gaules: 310925 messages
+  2. loud_coringa: 130579 messages
+  3. yoda: 126767 messages
+
+=== TOP 5 LANGUAGES BY VIEWER RANGE ===
+
+Viewer Range: 0-100
+  1. en: 2456 messages
+  2. es: 1380 messages
+  3. de: 908 messages
+  4. fr: 622 messages
+  5. pt: 243 messages
+
+Viewer Range: 101-500
+  1. en: 70023 messages
+  2. es: 17723 messages
+  3. ko: 7464 messages
+  4. fr: 6545 messages
+  5. pl: 4846 messages
+
+Viewer Range: 501-1000
+  1. en: 142019 messages
+  2. es: 61404 messages
+  3. pt: 22303 messages
+  4. ko: 17738 messages
+  5. fr: 16559 messages
+
+Viewer Range: 1000+
+  1. en: 4409828 messages
+  2. es: 1327511 messages
+  3. pt: 1097958 messages
+  4. ru: 616146 messages
+  5. fr: 587466 messages
+
+Time elapsed: 44.422450782s
+    Tiempo real: 44.42 segundos
+    Memoria máxima: 2952 KB
+    CPU utilizada: 199%
+
+  Run 2:
+Starting streaming analysis process...
+File: data/dataset/10M_Messages.json
+Using 2 threads
+File divided into 2 chunks for parallel processing
+Chunk 1/2 completed (5217183 messages processed) - 50% done
+Chunk 2/2 completed (5086817 messages processed) - 100% done
+Processing completed! Total messages processed: 10304000
+Generating results...
+Processing top channels by language...
+Processing top languages by viewer range...
+Analysis complete!
+
+=== TOP 3 CHANNELS BY LANGUAGE ===
+
+Language: pt
+  1. gaules: 310925 messages
+  2. loud_coringa: 130579 messages
+  3. yoda: 126767 messages
+
+Language: ar
+  1. iinwafqht: 15973 messages
+  2. lle_97: 11512 messages
+  3. xxplayawayxx: 9809 messages
+
+Language: cs
+  1. agraelus: 18304 messages
+  2. fattypillow: 2838 messages
+  3. xnapycz: 2833 messages
+
+Language: es
+  1. auronplay: 131691 messages
+  2. jelty: 114392 messages
+  3. elspreen: 90584 messages
+
+Language: pl
+  1. ewroon: 64468 messages
+  2. popo: 33626 messages
+  3. vysotzky: 30367 messages
+
+Language: ru
+  1. weplaycsgo_ru: 157715 messages
+  2. evelone192: 101243 messages
+  3. follentass: 86503 messages
+
+Language: hu
+  1. leetesport: 2471 messages
+  2. wearethevr: 1606 messages
+  3. eragonist: 242 messages
+
+Language: ro
+  1. creativemonkeyz: 1462 messages
+  2. faraoana: 227 messages
+
+Language: fr
+  1. locklear: 101616 messages
+  2. kamet0: 74166 messages
+  3. aminematue: 59722 messages
+
+Language: fi
+  1. yleeurheilu: 6927 messages
+  2. laeppastream: 462 messages
+  3. miikaz: 42 messages
+
+Language: de
+  1. therealknossi: 60782 messages
+  2. montanablack88: 59461 messages
+  3. noway4u_sir: 27156 messages
+
+Language: it
+  1. zanoxvii: 30463 messages
+  2. hollywood285: 25731 messages
+  3. ilmasseo: 19654 messages
+
+Language: en
+  1. mizkif: 250682 messages
+  2. xqcow: 208092 messages
+  3. pgl: 194132 messages
+
+Language: ko
+  1. saddummy: 46825 messages
+  2. handongsuk: 40949 messages
+  3. yapyap30: 22863 messages
+
+Language: other
+  1. bigezmoge: 21876 messages
+  2. samsaberi: 10836 messages
+  3. amirkhiabani: 520 messages
+
+Language: zh
+  1. shuteye_orange: 31209 messages
+  2. muse_tw: 27197 messages
+  3. asiagodtonegg3be0: 23114 messages
+
+Language: tr
+  1. jahrein: 16500 messages
+  2. burakoyunda: 13918 messages
+  3. mertgunhan: 10919 messages
+
+Language: ja
+  1. kato_junichi0817: 79319 messages
+  2. fps_shaka: 65009 messages
+  3. finalfantasyxiv: 47823 messages
+
+Language: th
+  1. jackeyy: 21424 messages
+  2. fifatargrean: 5520 messages
+  3. melonlama: 4004 messages
+
+Language: sk
+  1. 2sekundovymato: 966 messages
+
+Language: da
+  1. jkfifa: 3210 messages
+
+Language: sv
+  1. heatoncs: 8995 messages
+  2. jewanderz: 1838 messages
+  3. redbullse: 848 messages
+
+Language: tl
+  1. dub5tep: 197 messages
+
+=== TOP 5 LANGUAGES BY VIEWER RANGE ===
+
+Viewer Range: 0-100
+  1. en: 2456 messages
+  2. es: 1380 messages
+  3. de: 908 messages
+  4. fr: 622 messages
+  5. pt: 243 messages
+
+Viewer Range: 101-500
+  1. en: 70023 messages
+  2. es: 17723 messages
+  3. ko: 7464 messages
+  4. fr: 6545 messages
+  5. pl: 4846 messages
+
+Viewer Range: 501-1000
+  1. en: 142019 messages
+  2. es: 61404 messages
+  3. pt: 22303 messages
+  4. ko: 17738 messages
+  5. fr: 16559 messages
+
+Viewer Range: 1000+
+  1. en: 4409828 messages
+  2. es: 1327511 messages
+  3. pt: 1097958 messages
+  4. ru: 616146 messages
+  5. fr: 587466 messages
+
+Time elapsed: 41.971425735s
+    Tiempo real: 41.97 segundos
+    Memoria máxima: 3052 KB
+    CPU utilizada: 199%
+
+  Run 3:
+Starting streaming analysis process...
+File: data/dataset/10M_Messages.json
+Using 2 threads
+File divided into 2 chunks for parallel processing
+Chunk 1/2 completed (5217183 messages processed) - 50% done
+Chunk 2/2 completed (5086817 messages processed) - 100% done
+Processing completed! Total messages processed: 10304000
+Generating results...
+Processing top channels by language...
+Processing top languages by viewer range...
+Analysis complete!
+
+=== TOP 3 CHANNELS BY LANGUAGE ===
+
+Language: cs
+  1. agraelus: 18304 messages
+  2. fattypillow: 2838 messages
+  3. xnapycz: 2833 messages
+
+Language: de
+  1. therealknossi: 60782 messages
+  2. montanablack88: 59461 messages
+  3. noway4u_sir: 27156 messages
+
+Language: pt
+  1. gaules: 310925 messages
+  2. loud_coringa: 130579 messages
+  3. yoda: 126767 messages
+
+Language: th
+  1. jackeyy: 21424 messages
+  2. fifatargrean: 5520 messages
+  3. melonlama: 4004 messages
+
+Language: ro
+  1. creativemonkeyz: 1462 messages
+  2. faraoana: 227 messages
+
+Language: sk
+  1. 2sekundovymato: 966 messages
+
+Language: tr
+  1. jahrein: 16500 messages
+  2. burakoyunda: 13918 messages
+  3. mertgunhan: 10919 messages
+
+Language: it
+  1. zanoxvii: 30463 messages
+  2. hollywood285: 25731 messages
+  3. ilmasseo: 19654 messages
+
+Language: ko
+  1. saddummy: 46825 messages
+  2. handongsuk: 40949 messages
+  3. yapyap30: 22863 messages
+
+Language: fi
+  1. yleeurheilu: 6927 messages
+  2. laeppastream: 462 messages
+  3. miikaz: 42 messages
+
+Language: other
+  1. bigezmoge: 21876 messages
+  2. samsaberi: 10836 messages
+  3. amirkhiabani: 520 messages
+
+Language: es
+  1. auronplay: 131691 messages
+  2. jelty: 114392 messages
+  3. elspreen: 90584 messages
+
+Language: pl
+  1. ewroon: 64468 messages
+  2. popo: 33626 messages
+  3. vysotzky: 30367 messages
+
+Language: ja
+  1. kato_junichi0817: 79319 messages
+  2. fps_shaka: 65009 messages
+  3. finalfantasyxiv: 47823 messages
+
+Language: ar
+  1. iinwafqht: 15973 messages
+  2. lle_97: 11512 messages
+  3. xxplayawayxx: 9809 messages
+
+Language: sv
+  1. heatoncs: 8995 messages
+  2. jewanderz: 1838 messages
+  3. redbullse: 848 messages
+
+Language: da
+  1. jkfifa: 3210 messages
+
+Language: zh
+  1. shuteye_orange: 31209 messages
+  2. muse_tw: 27197 messages
+  3. asiagodtonegg3be0: 23114 messages
+
+Language: hu
+  1. leetesport: 2471 messages
+  2. wearethevr: 1606 messages
+  3. eragonist: 242 messages
+
+Language: tl
+  1. dub5tep: 197 messages
+
+Language: ru
+  1. weplaycsgo_ru: 157715 messages
+  2. evelone192: 101243 messages
+  3. follentass: 86503 messages
+
+Language: en
+  1. mizkif: 250682 messages
+  2. xqcow: 208092 messages
+  3. pgl: 194132 messages
+
+Language: fr
+  1. locklear: 101616 messages
+  2. kamet0: 74166 messages
+  3. aminematue: 59722 messages
+
+=== TOP 5 LANGUAGES BY VIEWER RANGE ===
+
+Viewer Range: 0-100
+  1. en: 2456 messages
+  2. es: 1380 messages
+  3. de: 908 messages
+  4. fr: 622 messages
+  5. pt: 243 messages
+
+Viewer Range: 101-500
+  1. en: 70023 messages
+  2. es: 17723 messages
+  3. ko: 7464 messages
+  4. fr: 6545 messages
+  5. pl: 4846 messages
+
+Viewer Range: 501-1000
+  1. en: 142019 messages
+  2. es: 61404 messages
+  3. pt: 22303 messages
+  4. ko: 17738 messages
+  5. fr: 16559 messages
+
+Viewer Range: 1000+
+  1. en: 4409828 messages
+  2. es: 1327511 messages
+  3. pt: 1097958 messages
+  4. ru: 616146 messages
+  5. fr: 587466 messages
+
+Time elapsed: 34.627292354s
+    Tiempo real: 34.63 segundos
+    Memoria máxima: 2924 KB
+    CPU utilizada: 198%
+
+----------------------------------------
+=== EJECUTANDO CON 4 THREADS ===
+  Run 1:
+Starting streaming analysis process...
+File: data/dataset/10M_Messages.json
+Using 4 threads
+File divided into 4 chunks for parallel processing
+Chunk 1/4 completed (2584062 messages processed) - 25% done
+Chunk 2/4 completed (2633120 messages processed) - 50% done
+Chunk 3/4 completed (2558079 messages processed) - 75% done
+Chunk 4/4 completed (2528739 messages processed) - 100% done
+Processing completed! Total messages processed: 10304000
+Generating results...
+Processing top channels by language...
+Processing top languages by viewer range...
+Analysis complete!
+
+=== TOP 3 CHANNELS BY LANGUAGE ===
+
+Language: cs
+  1. agraelus: 18304 messages
+  2. fattypillow: 2838 messages
+  3. xnapycz: 2833 messages
+
+Language: da
+  1. jkfifa: 3210 messages
+
+Language: de
+  1. therealknossi: 60782 messages
+  2. montanablack88: 59461 messages
+  3. noway4u_sir: 27156 messages
+
+Language: ru
+  1. weplaycsgo_ru: 157715 messages
+  2. evelone192: 101243 messages
+  3. follentass: 86503 messages
+
+Language: fr
+  1. locklear: 101616 messages
+  2. kamet0: 74166 messages
+  3. aminematue: 59722 messages
+
+Language: ar
+  1. iinwafqht: 15973 messages
+  2. lle_97: 11512 messages
+  3. xxplayawayxx: 9809 messages
+
+Language: sv
+  1. heatoncs: 8995 messages
+  2. jewanderz: 1838 messages
+  3. redbullse: 848 messages
+
+Language: pt
+  1. gaules: 310925 messages
+  2. loud_coringa: 130579 messages
+  3. yoda: 126767 messages
+
+Language: tr
+  1. jahrein: 16500 messages
+  2. burakoyunda: 13918 messages
+  3. mertgunhan: 10919 messages
+
+Language: fi
+  1. yleeurheilu: 6927 messages
+  2. laeppastream: 462 messages
+  3. miikaz: 42 messages
+
+Language: ko
+  1. saddummy: 46825 messages
+  2. handongsuk: 40949 messages
+  3. yapyap30: 22863 messages
+
+Language: tl
+  1. dub5tep: 197 messages
+
+Language: it
+  1. zanoxvii: 30463 messages
+  2. hollywood285: 25731 messages
+  3. ilmasseo: 19654 messages
+
+Language: pl
+  1. ewroon: 64468 messages
+  2. popo: 33626 messages
+  3. vysotzky: 30367 messages
+
+Language: th
+  1. jackeyy: 21424 messages
+  2. fifatargrean: 5520 messages
+  3. melonlama: 4004 messages
+
+Language: sk
+  1. 2sekundovymato: 966 messages
+
+Language: ja
+  1. kato_junichi0817: 79319 messages
+  2. fps_shaka: 65009 messages
+  3. finalfantasyxiv: 47823 messages
+
+Language: en
+  1. mizkif: 250682 messages
+  2. xqcow: 208092 messages
+  3. pgl: 194132 messages
+
+Language: es
+  1. auronplay: 131691 messages
+  2. jelty: 114392 messages
+  3. elspreen: 90584 messages
+
+Language: zh
+  1. shuteye_orange: 31209 messages
+  2. muse_tw: 27197 messages
+  3. asiagodtonegg3be0: 23114 messages
+
+Language: ro
+  1. creativemonkeyz: 1462 messages
+  2. faraoana: 227 messages
+
+Language: other
+  1. bigezmoge: 21876 messages
+  2. samsaberi: 10836 messages
+  3. amirkhiabani: 520 messages
+
+Language: hu
+  1. leetesport: 2471 messages
+  2. wearethevr: 1606 messages
+  3. eragonist: 242 messages
+
+=== TOP 5 LANGUAGES BY VIEWER RANGE ===
+
+Viewer Range: 0-100
+  1. en: 2456 messages
+  2. es: 1380 messages
+  3. de: 908 messages
+  4. fr: 622 messages
+  5. pt: 243 messages
+
+Viewer Range: 101-500
+  1. en: 70023 messages
+  2. es: 17723 messages
+  3. ko: 7464 messages
+  4. fr: 6545 messages
+  5. pl: 4846 messages
+
+Viewer Range: 501-1000
+  1. en: 142019 messages
+  2. es: 61404 messages
+  3. pt: 22303 messages
+  4. ko: 17738 messages
+  5. fr: 16559 messages
+
+Viewer Range: 1000+
+  1. en: 4409828 messages
+  2. es: 1327511 messages
+  3. pt: 1097958 messages
+  4. ru: 616146 messages
+  5. fr: 587466 messages
+
+Time elapsed: 16.223679566s
+    Tiempo real: 16.22 segundos
+    Memoria máxima: 3580 KB
+    CPU utilizada: 372%
+
+  Run 2:
+Starting streaming analysis process...
+File: data/dataset/10M_Messages.json
+Using 4 threads
+File divided into 4 chunks for parallel processing
+Chunk 1/4 completed (2584062 messages processed) - 25% done
+Chunk 2/4 completed (2558079 messages processed) - 50% done
+Chunk 3/4 completed (2633120 messages processed) - 75% done
+Chunk 4/4 completed (2528739 messages processed) - 100% done
+Processing completed! Total messages processed: 10304000
+Generating results...
+Processing top channels by language...
+Processing top languages by viewer range...
+Analysis complete!
+
+=== TOP 3 CHANNELS BY LANGUAGE ===
+
+Language: sv
+  1. heatoncs: 8995 messages
+  2. jewanderz: 1838 messages
+  3. redbullse: 848 messages
+
+Language: it
+  1. zanoxvii: 30463 messages
+  2. hollywood285: 25731 messages
+  3. ilmasseo: 19654 messages
+
+Language: fr
+  1. locklear: 101616 messages
+  2. kamet0: 74166 messages
+  3. aminematue: 59722 messages
+
+Language: pt
+  1. gaules: 310925 messages
+  2. loud_coringa: 130579 messages
+  3. yoda: 126767 messages
+
+Language: de
+  1. therealknossi: 60782 messages
+  2. montanablack88: 59461 messages
+  3. noway4u_sir: 27156 messages
+
+Language: es
+  1. auronplay: 131691 messages
+  2. jelty: 114392 messages
+  3. elspreen: 90584 messages
+
+Language: pl
+  1. ewroon: 64468 messages
+  2. popo: 33626 messages
+  3. vysotzky: 30367 messages
+
+Language: other
+  1. bigezmoge: 21876 messages
+  2. samsaberi: 10836 messages
+  3. amirkhiabani: 520 messages
+
+Language: da
+  1. jkfifa: 3210 messages
+
+Language: ru
+  1. weplaycsgo_ru: 157715 messages
+  2. evelone192: 101243 messages
+  3. follentass: 86503 messages
+
+Language: cs
+  1. agraelus: 18304 messages
+  2. fattypillow: 2838 messages
+  3. xnapycz: 2833 messages
+
+Language: hu
+  1. leetesport: 2471 messages
+  2. wearethevr: 1606 messages
+  3. eragonist: 242 messages
+
+Language: ar
+  1. iinwafqht: 15973 messages
+  2. lle_97: 11512 messages
+  3. xxplayawayxx: 9809 messages
+
+Language: sk
+  1. 2sekundovymato: 966 messages
+
+Language: zh
+  1. shuteye_orange: 31209 messages
+  2. muse_tw: 27197 messages
+  3. asiagodtonegg3be0: 23114 messages
+
+Language: ko
+  1. saddummy: 46825 messages
+  2. handongsuk: 40949 messages
+  3. yapyap30: 22863 messages
+
+Language: ja
+  1. kato_junichi0817: 79319 messages
+  2. fps_shaka: 65009 messages
+  3. finalfantasyxiv: 47823 messages
+
+Language: fi
+  1. yleeurheilu: 6927 messages
+  2. laeppastream: 462 messages
+  3. miikaz: 42 messages
+
+Language: tr
+  1. jahrein: 16500 messages
+  2. burakoyunda: 13918 messages
+  3. mertgunhan: 10919 messages
+
+Language: ro
+  1. creativemonkeyz: 1462 messages
+  2. faraoana: 227 messages
+
+Language: en
+  1. mizkif: 250682 messages
+  2. xqcow: 208092 messages
+  3. pgl: 194132 messages
+
+Language: th
+  1. jackeyy: 21424 messages
+  2. fifatargrean: 5520 messages
+  3. melonlama: 4004 messages
+
+Language: tl
+  1. dub5tep: 197 messages
+
+=== TOP 5 LANGUAGES BY VIEWER RANGE ===
+
+Viewer Range: 0-100
+  1. en: 2456 messages
+  2. es: 1380 messages
+  3. de: 908 messages
+  4. fr: 622 messages
+  5. pt: 243 messages
+
+Viewer Range: 101-500
+  1. en: 70023 messages
+  2. es: 17723 messages
+  3. ko: 7464 messages
+  4. fr: 6545 messages
+  5. pl: 4846 messages
+
+Viewer Range: 501-1000
+  1. en: 142019 messages
+  2. es: 61404 messages
+  3. pt: 22303 messages
+  4. ko: 17738 messages
+  5. fr: 16559 messages
+
+Viewer Range: 1000+
+  1. en: 4409828 messages
+  2. es: 1327511 messages
+  3. pt: 1097958 messages
+  4. ru: 616146 messages
+  5. fr: 587466 messages
+
+Time elapsed: 16.6038506s
+    Tiempo real: 16.60 segundos
+    Memoria máxima: 3260 KB
+    CPU utilizada: 365%
+
+  Run 3:
+Starting streaming analysis process...
+File: data/dataset/10M_Messages.json
+Using 4 threads
+File divided into 4 chunks for parallel processing
+Chunk 1/4 completed (2528739 messages processed) - 25% done
+Chunk 2/4 completed (2633120 messages processed) - 50% done
+Chunk 3/4 completed (2584062 messages processed) - 75% done
+Chunk 4/4 completed (2558079 messages processed) - 100% done
+Processing completed! Total messages processed: 10304000
+Generating results...
+Processing top channels by language...
+Processing top languages by viewer range...
+Analysis complete!
+
+=== TOP 3 CHANNELS BY LANGUAGE ===
+
+Language: ko
+  1. saddummy: 46825 messages
+  2. handongsuk: 40949 messages
+  3. yapyap30: 22863 messages
+
+Language: ar
+  1. iinwafqht: 15973 messages
+  2. lle_97: 11512 messages
+  3. xxplayawayxx: 9809 messages
+
+Language: other
+  1. bigezmoge: 21876 messages
+  2. samsaberi: 10836 messages
+  3. amirkhiabani: 520 messages
+
+Language: fi
+  1. yleeurheilu: 6927 messages
+  2. laeppastream: 462 messages
+  3. miikaz: 42 messages
+
+Language: pl
+  1. ewroon: 64468 messages
+  2. popo: 33626 messages
+  3. vysotzky: 30367 messages
+
+Language: zh
+  1. shuteye_orange: 31209 messages
+  2. muse_tw: 27197 messages
+  3. asiagodtonegg3be0: 23114 messages
+
+Language: hu
+  1. leetesport: 2471 messages
+  2. wearethevr: 1606 messages
+  3. eragonist: 242 messages
+
+Language: da
+  1. jkfifa: 3210 messages
+
+Language: ru
+  1. weplaycsgo_ru: 157715 messages
+  2. evelone192: 101243 messages
+  3. follentass: 86503 messages
+
+Language: pt
+  1. gaules: 310925 messages
+  2. loud_coringa: 130579 messages
+  3. yoda: 126767 messages
+
+Language: ro
+  1. creativemonkeyz: 1462 messages
+  2. faraoana: 227 messages
+
+Language: es
+  1. auronplay: 131691 messages
+  2. jelty: 114392 messages
+  3. elspreen: 90584 messages
+
+Language: ja
+  1. kato_junichi0817: 79319 messages
+  2. fps_shaka: 65009 messages
+  3. finalfantasyxiv: 47823 messages
+
+Language: sv
+  1. heatoncs: 8995 messages
+  2. jewanderz: 1838 messages
+  3. redbullse: 848 messages
+
+Language: en
+  1. mizkif: 250682 messages
+  2. xqcow: 208092 messages
+  3. pgl: 194132 messages
+
+Language: tr
+  1. jahrein: 16500 messages
+  2. burakoyunda: 13918 messages
+  3. mertgunhan: 10919 messages
+
+Language: cs
+  1. agraelus: 18304 messages
+  2. fattypillow: 2838 messages
+  3. xnapycz: 2833 messages
+
+Language: fr
+  1. locklear: 101616 messages
+  2. kamet0: 74166 messages
+  3. aminematue: 59722 messages
+
+Language: it
+  1. zanoxvii: 30463 messages
+  2. hollywood285: 25731 messages
+  3. ilmasseo: 19654 messages
+
+Language: de
+  1. therealknossi: 60782 messages
+  2. montanablack88: 59461 messages
+  3. noway4u_sir: 27156 messages
+
+Language: sk
+  1. 2sekundovymato: 966 messages
+
+Language: tl
+  1. dub5tep: 197 messages
+
+Language: th
+  1. jackeyy: 21424 messages
+  2. fifatargrean: 5520 messages
+  3. melonlama: 4004 messages
+
+=== TOP 5 LANGUAGES BY VIEWER RANGE ===
+
+Viewer Range: 0-100
+  1. en: 2456 messages
+  2. es: 1380 messages
+  3. de: 908 messages
+  4. fr: 622 messages
+  5. pt: 243 messages
+
+Viewer Range: 101-500
+  1. en: 70023 messages
+  2. es: 17723 messages
+  3. ko: 7464 messages
+  4. fr: 6545 messages
+  5. pl: 4846 messages
+
+Viewer Range: 501-1000
+  1. en: 142019 messages
+  2. es: 61404 messages
+  3. pt: 22303 messages
+  4. ko: 17738 messages
+  5. fr: 16559 messages
+
+Viewer Range: 1000+
+  1. en: 4409828 messages
+  2. es: 1327511 messages
+  3. pt: 1097958 messages
+  4. ru: 616146 messages
+  5. fr: 587466 messages
+
+Time elapsed: 16.315355732s
+    Tiempo real: 16.31 segundos
+    Memoria máxima: 3624 KB
+    CPU utilizada: 375%
+
+----------------------------------------
+=== EJECUTANDO CON 8 THREADS ===
+  Run 1:
+Starting streaming analysis process...
+File: data/dataset/10M_Messages.json
+Using 8 threads
+File divided into 8 chunks for parallel processing
+Chunk 1/8 completed (1275350 messages processed) - 12% done
+Chunk 2/8 completed (1261976 messages processed) - 25% done
+Chunk 3/8 completed (1312162 messages processed) - 37% done
+Chunk 4/8 completed (1271901 messages processed) - 50% done
+Chunk 5/8 completed (1282730 messages processed) - 62% done
+Chunk 6/8 completed (1317245 messages processed) - 75% done
+Chunk 7/8 completed (1266763 messages processed) - 87% done
+Chunk 8/8 completed (1315873 messages processed) - 100% done
+Processing completed! Total messages processed: 10304000
+Generating results...
+Processing top channels by language...
+Processing top languages by viewer range...
+Analysis complete!
+
+=== TOP 3 CHANNELS BY LANGUAGE ===
+
+Language: es
+  1. auronplay: 131691 messages
+  2. jelty: 114392 messages
+  3. elspreen: 90584 messages
+
+Language: de
+  1. therealknossi: 60782 messages
+  2. montanablack88: 59461 messages
+  3. noway4u_sir: 27156 messages
+
+Language: tr
+  1. jahrein: 16500 messages
+  2. burakoyunda: 13918 messages
+  3. mertgunhan: 10919 messages
+
+Language: tl
+  1. dub5tep: 197 messages
+
+Language: ar
+  1. iinwafqht: 15973 messages
+  2. lle_97: 11512 messages
+  3. xxplayawayxx: 9809 messages
+
+Language: th
+  1. jackeyy: 21424 messages
+  2. fifatargrean: 5520 messages
+  3. melonlama: 4004 messages
+
+Language: ja
+  1. kato_junichi0817: 79319 messages
+  2. fps_shaka: 65009 messages
+  3. finalfantasyxiv: 47823 messages
+
+Language: ru
+  1. weplaycsgo_ru: 157715 messages
+  2. evelone192: 101243 messages
+  3. follentass: 86503 messages
+
+Language: pl
+  1. ewroon: 64468 messages
+  2. popo: 33626 messages
+  3. vysotzky: 30367 messages
+
+Language: ko
+  1. saddummy: 46825 messages
+  2. handongsuk: 40949 messages
+  3. yapyap30: 22863 messages
+
+Language: other
+  1. bigezmoge: 21876 messages
+  2. samsaberi: 10836 messages
+  3. amirkhiabani: 520 messages
+
+Language: it
+  1. zanoxvii: 30463 messages
+  2. hollywood285: 25731 messages
+  3. ilmasseo: 19654 messages
+
+Language: sv
+  1. heatoncs: 8995 messages
+  2. jewanderz: 1838 messages
+  3. redbullse: 848 messages
+
+Language: hu
+  1. leetesport: 2471 messages
+  2. wearethevr: 1606 messages
+  3. eragonist: 242 messages
+
+Language: da
+  1. jkfifa: 3210 messages
+
+Language: cs
+  1. agraelus: 18304 messages
+  2. fattypillow: 2838 messages
+  3. xnapycz: 2833 messages
+
+Language: ro
+  1. creativemonkeyz: 1462 messages
+  2. faraoana: 227 messages
+
+Language: fi
+  1. yleeurheilu: 6927 messages
+  2. laeppastream: 462 messages
+  3. miikaz: 42 messages
+
+Language: sk
+  1. 2sekundovymato: 966 messages
+
+Language: fr
+  1. locklear: 101616 messages
+  2. kamet0: 74166 messages
+  3. aminematue: 59722 messages
+
+Language: zh
+  1. shuteye_orange: 31209 messages
+  2. muse_tw: 27197 messages
+  3. asiagodtonegg3be0: 23114 messages
+
+Language: pt
+  1. gaules: 310925 messages
+  2. loud_coringa: 130579 messages
+  3. yoda: 126767 messages
+
+Language: en
+  1. mizkif: 250682 messages
+  2. xqcow: 208092 messages
+  3. pgl: 194132 messages
+
+=== TOP 5 LANGUAGES BY VIEWER RANGE ===
+
+Viewer Range: 0-100
+  1. en: 2456 messages
+  2. es: 1380 messages
+  3. de: 908 messages
+  4. fr: 622 messages
+  5. pt: 243 messages
+
+Viewer Range: 101-500
+  1. en: 70023 messages
+  2. es: 17723 messages
+  3. ko: 7464 messages
+  4. fr: 6545 messages
+  5. pl: 4846 messages
+
+Viewer Range: 501-1000
+  1. en: 142019 messages
+  2. es: 61404 messages
+  3. pt: 22303 messages
+  4. ko: 17738 messages
+  5. fr: 16559 messages
+
+Viewer Range: 1000+
+  1. en: 4409828 messages
+  2. es: 1327511 messages
+  3. pt: 1097958 messages
+  4. ru: 616146 messages
+  5. fr: 587466 messages
+
+Time elapsed: 9.396277265s
+    Tiempo real: 9.39 segundos
+    Memoria máxima: 3580 KB
+    CPU utilizada: 754%
+
+  Run 2:
+Starting streaming analysis process...
+File: data/dataset/10M_Messages.json
+Using 8 threads
+File divided into 8 chunks for parallel processing
+Chunk 1/8 completed (1271901 messages processed) - 12% done
+Chunk 2/8 completed (1315873 messages processed) - 25% done
+Chunk 3/8 completed (1261976 messages processed) - 37% done
+Chunk 4/8 completed (1317245 messages processed) - 50% done
+Chunk 5/8 completed (1275350 messages processed) - 62% done
+Chunk 6/8 completed (1266763 messages processed) - 75% done
+Chunk 7/8 completed (1312162 messages processed) - 87% done
+Chunk 8/8 completed (1282730 messages processed) - 100% done
+Processing completed! Total messages processed: 10304000
+Generating results...
+Processing top channels by language...
+Processing top languages by viewer range...
+Analysis complete!
+
+=== TOP 3 CHANNELS BY LANGUAGE ===
+
+Language: de
+  1. therealknossi: 60782 messages
+  2. montanablack88: 59461 messages
+  3. noway4u_sir: 27156 messages
+
+Language: ko
+  1. saddummy: 46825 messages
+  2. handongsuk: 40949 messages
+  3. yapyap30: 22863 messages
+
+Language: fr
+  1. locklear: 101616 messages
+  2. kamet0: 74166 messages
+  3. aminematue: 59722 messages
+
+Language: zh
+  1. shuteye_orange: 31209 messages
+  2. muse_tw: 27197 messages
+  3. asiagodtonegg3be0: 23114 messages
+
+Language: other
+  1. bigezmoge: 21876 messages
+  2. samsaberi: 10836 messages
+  3. amirkhiabani: 520 messages
+
+Language: th
+  1. jackeyy: 21424 messages
+  2. fifatargrean: 5520 messages
+  3. melonlama: 4004 messages
+
+Language: sk
+  1. 2sekundovymato: 966 messages
+
+Language: tr
+  1. jahrein: 16500 messages
+  2. burakoyunda: 13918 messages
+  3. mertgunhan: 10919 messages
+
+Language: ja
+  1. kato_junichi0817: 79319 messages
+  2. fps_shaka: 65009 messages
+  3. finalfantasyxiv: 47823 messages
+
+Language: hu
+  1. leetesport: 2471 messages
+  2. wearethevr: 1606 messages
+  3. eragonist: 242 messages
+
+Language: es
+  1. auronplay: 131691 messages
+  2. jelty: 114392 messages
+  3. elspreen: 90584 messages
+
+Language: cs
+  1. agraelus: 18304 messages
+  2. fattypillow: 2838 messages
+  3. xnapycz: 2833 messages
+
+Language: pt
+  1. gaules: 310925 messages
+  2. loud_coringa: 130579 messages
+  3. yoda: 126767 messages
+
+Language: it
+  1. zanoxvii: 30463 messages
+  2. hollywood285: 25731 messages
+  3. ilmasseo: 19654 messages
+
+Language: fi
+  1. yleeurheilu: 6927 messages
+  2. laeppastream: 462 messages
+  3. miikaz: 42 messages
+
+Language: en
+  1. mizkif: 250682 messages
+  2. xqcow: 208092 messages
+  3. pgl: 194132 messages
+
+Language: sv
+  1. heatoncs: 8995 messages
+  2. jewanderz: 1838 messages
+  3. redbullse: 848 messages
+
+Language: ar
+  1. iinwafqht: 15973 messages
+  2. lle_97: 11512 messages
+  3. xxplayawayxx: 9809 messages
+
+Language: da
+  1. jkfifa: 3210 messages
+
+Language: ro
+  1. creativemonkeyz: 1462 messages
+  2. faraoana: 227 messages
+
+Language: pl
+  1. ewroon: 64468 messages
+  2. popo: 33626 messages
+  3. vysotzky: 30367 messages
+
+Language: ru
+  1. weplaycsgo_ru: 157715 messages
+  2. evelone192: 101243 messages
+  3. follentass: 86503 messages
+
+Language: tl
+  1. dub5tep: 197 messages
+
+=== TOP 5 LANGUAGES BY VIEWER RANGE ===
+
+Viewer Range: 0-100
+  1. en: 2456 messages
+  2. es: 1380 messages
+  3. de: 908 messages
+  4. fr: 622 messages
+  5. pt: 243 messages
+
+Viewer Range: 101-500
+  1. en: 70023 messages
+  2. es: 17723 messages
+  3. ko: 7464 messages
+  4. fr: 6545 messages
+  5. pl: 4846 messages
+
+Viewer Range: 501-1000
+  1. en: 142019 messages
+  2. es: 61404 messages
+  3. pt: 22303 messages
+  4. ko: 17738 messages
+  5. fr: 16559 messages
+
+Viewer Range: 1000+
+  1. en: 4409828 messages
+  2. es: 1327511 messages
+  3. pt: 1097958 messages
+  4. ru: 616146 messages
+  5. fr: 587466 messages
+
+Time elapsed: 9.4954885s
+    Tiempo real: 9.49 segundos
+    Memoria máxima: 3432 KB
+    CPU utilizada: 754%
+
+  Run 3:
+Starting streaming analysis process...
+File: data/dataset/10M_Messages.json
+Using 8 threads
+File divided into 8 chunks for parallel processing
+Chunk 1/8 completed (1312162 messages processed) - 12% done
+Chunk 2/8 completed (1282730 messages processed) - 25% done
+Chunk 3/8 completed (1275350 messages processed) - 37% done
+Chunk 4/8 completed (1271901 messages processed) - 50% done
+Chunk 5/8 completed (1315873 messages processed) - 62% done
+Chunk 6/8 completed (1317245 messages processed) - 75% done
+Chunk 7/8 completed (1266763 messages processed) - 87% done
+Chunk 8/8 completed (1261976 messages processed) - 100% done
+Processing completed! Total messages processed: 10304000
+Generating results...
+Processing top channels by language...
+Processing top languages by viewer range...
+Analysis complete!
+
+=== TOP 3 CHANNELS BY LANGUAGE ===
+
+Language: da
+  1. jkfifa: 3210 messages
+
+Language: ar
+  1. iinwafqht: 15973 messages
+  2. lle_97: 11512 messages
+  3. xxplayawayxx: 9809 messages
+
+Language: tr
+  1. jahrein: 16500 messages
+  2. burakoyunda: 13918 messages
+  3. mertgunhan: 10919 messages
+
+Language: tl
+  1. dub5tep: 197 messages
+
+Language: hu
+  1. leetesport: 2471 messages
+  2. wearethevr: 1606 messages
+  3. eragonist: 242 messages
+
+Language: other
+  1. bigezmoge: 21876 messages
+  2. samsaberi: 10836 messages
+  3. amirkhiabani: 520 messages
+
+Language: it
+  1. zanoxvii: 30463 messages
+  2. hollywood285: 25731 messages
+  3. ilmasseo: 19654 messages
+
+Language: ko
+  1. saddummy: 46825 messages
+  2. handongsuk: 40949 messages
+  3. yapyap30: 22863 messages
+
+Language: es
+  1. auronplay: 131691 messages
+  2. jelty: 114392 messages
+  3. elspreen: 90584 messages
+
+Language: fi
+  1. yleeurheilu: 6927 messages
+  2. laeppastream: 462 messages
+  3. miikaz: 42 messages
+
+Language: zh
+  1. shuteye_orange: 31209 messages
+  2. muse_tw: 27197 messages
+  3. asiagodtonegg3be0: 23114 messages
+
+Language: sk
+  1. 2sekundovymato: 966 messages
+
+Language: ru
+  1. weplaycsgo_ru: 157715 messages
+  2. evelone192: 101243 messages
+  3. follentass: 86503 messages
+
+Language: fr
+  1. locklear: 101616 messages
+  2. kamet0: 74166 messages
+  3. aminematue: 59722 messages
+
+Language: th
+  1. jackeyy: 21424 messages
+  2. fifatargrean: 5520 messages
+  3. melonlama: 4004 messages
+
+Language: de
+  1. therealknossi: 60782 messages
+  2. montanablack88: 59461 messages
+  3. noway4u_sir: 27156 messages
+
+Language: sv
+  1. heatoncs: 8995 messages
+  2. jewanderz: 1838 messages
+  3. redbullse: 848 messages
+
+Language: pt
+  1. gaules: 310925 messages
+  2. loud_coringa: 130579 messages
+  3. yoda: 126767 messages
+
+Language: cs
+  1. agraelus: 18304 messages
+  2. fattypillow: 2838 messages
+  3. xnapycz: 2833 messages
+
+Language: pl
+  1. ewroon: 64468 messages
+  2. popo: 33626 messages
+  3. vysotzky: 30367 messages
+
+Language: en
+  1. mizkif: 250682 messages
+  2. xqcow: 208092 messages
+  3. pgl: 194132 messages
+
+Language: ja
+  1. kato_junichi0817: 79319 messages
+  2. fps_shaka: 65009 messages
+  3. finalfantasyxiv: 47823 messages
+
+Language: ro
+  1. creativemonkeyz: 1462 messages
+  2. faraoana: 227 messages
+
+=== TOP 5 LANGUAGES BY VIEWER RANGE ===
+
+Viewer Range: 0-100
+  1. en: 2456 messages
+  2. es: 1380 messages
+  3. de: 908 messages
+  4. fr: 622 messages
+  5. pt: 243 messages
+
+Viewer Range: 101-500
+  1. en: 70023 messages
+  2. es: 17723 messages
+  3. ko: 7464 messages
+  4. fr: 6545 messages
+  5. pl: 4846 messages
+
+Viewer Range: 501-1000
+  1. en: 142019 messages
+  2. es: 61404 messages
+  3. pt: 22303 messages
+  4. ko: 17738 messages
+  5. fr: 16559 messages
+
+Viewer Range: 1000+
+  1. en: 4409828 messages
+  2. es: 1327511 messages
+  3. pt: 1097958 messages
+  4. ru: 616146 messages
+  5. fr: 587466 messages
+
+Time elapsed: 9.533058911s
+    Tiempo real: 9.53 segundos
+    Memoria máxima: 3852 KB
+    CPU utilizada: 743%
+
+----------------------------------------

@@ -1,5 +1,10 @@
-pub mod errors;
-pub mod models;
+pub mod channel_message_count;
+pub mod chat_message;
+pub mod chunk_info;
+pub mod custom_error;
+pub mod language_message_count;
 pub mod parser;
+pub mod streaming_aggregators;
+pub mod top_channels_result;
+pub mod top_languages_result;
 pub mod transformations;
-
